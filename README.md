@@ -105,17 +105,15 @@ We are also extracting information from various social media sites that contain 
 
 ## Meet the Team : 
 
-Lavina Jagwani
+Aravind 
 
-Jordan Levy
+Sai krishna
 
-Robert Yokabaskas
+Chandhu srinu
 
-Yutai Lee
+Shiva Ramakrishna
 
-Richard Barber
 
-Jacqueline Guo
 
 
 
